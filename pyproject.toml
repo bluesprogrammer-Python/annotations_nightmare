@@ -1,0 +1,9 @@
+[project]
+name = "annotations-nightmare"
+version = "0.1.0"
+description = "Репозиторий для отработки аннотациий"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pre-commit>=4.2.0",
+]
